@@ -21,5 +21,9 @@
 
 # Mysql
 - import StudentPerformance.csv (download from kaggle.com )
-- connect to mysql->train test split in dataIngestion file
 
+# Data Ingestion
+- connect to mysql->train test split in dataIngestion file
+- use pandas library to create dataFrame and save it by exporting it to csv.
+
+# DVC (Data version control)

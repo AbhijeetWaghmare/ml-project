@@ -37,10 +37,10 @@ class DataIngestion:
                 self.data_ingestion_config.raw_data_path, index=False, header=True
             )
             train_set, test_set = train_test_split(df, test_size=0.2, random_state=42)
-            df.to_csv(
+            train_set.to_csv(
                 self.data_ingestion_config.train_data_path, index=False, header=True
             )
-            df.to_csv(
+            test_set.to_csv(
                 self.data_ingestion_config.test_data_path, index=False, header=True
             )
             logging.info("Data ingestion completed...")
