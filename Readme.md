@@ -27,3 +27,5 @@
 - use pandas library to create dataFrame and save it by exporting it to csv.
 
 # DVC (Data version control)
+- dvc init
+- git add commit
