@@ -31,3 +31,9 @@
 - git add commit
 
 special sytnax to exclude file in git "git add -- . :!artifacts/test.csv :!artifacts/train.csv"
+
+# daghub
+- create and connect github repo 
+
+# install mlflow locally
+- add mlflow url share on daghub...

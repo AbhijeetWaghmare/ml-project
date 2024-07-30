@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/code/data%20Science/ml%20project/mlruns/0/9e23f9a1c8754065a580c7f29481625e/artifacts
+end_time: 1722338294465
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e23f9a1c8754065a580c7f29481625e
+run_name: upset-sheep-978
+run_uuid: 9e23f9a1c8754065a580c7f29481625e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722338287490
+status: 3
+tags: []
+user_id: abhij

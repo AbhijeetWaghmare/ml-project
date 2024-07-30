@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/code/data%20Science/ml%20project/mlruns/0/b8de2d47c427457aaf336bd3a1f43dc7/artifacts
+end_time: 1722340285590
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b8de2d47c427457aaf336bd3a1f43dc7
+run_name: righteous-stag-341
+run_uuid: b8de2d47c427457aaf336bd3a1f43dc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722340270102
+status: 3
+tags: []
+user_id: abhij

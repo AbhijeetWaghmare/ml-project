@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/code/data%20Science/ml%20project/mlruns/0/6df92c8e11744a81af3b758e509b3e03/artifacts
+end_time: 1722339211378
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6df92c8e11744a81af3b758e509b3e03
+run_name: stately-gnat-422
+run_uuid: 6df92c8e11744a81af3b758e509b3e03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722339206160
+status: 3
+tags: []
+user_id: abhij

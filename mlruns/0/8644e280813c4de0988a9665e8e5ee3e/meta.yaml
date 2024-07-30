@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/code/data%20Science/ml%20project/mlruns/0/8644e280813c4de0988a9665e8e5ee3e/artifacts
+end_time: 1722340143637
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8644e280813c4de0988a9665e8e5ee3e
+run_name: welcoming-hare-355
+run_uuid: 8644e280813c4de0988a9665e8e5ee3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722340138616
+status: 3
+tags: []
+user_id: abhij

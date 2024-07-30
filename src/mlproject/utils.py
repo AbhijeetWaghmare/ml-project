@@ -26,7 +26,7 @@ def read_sql_data():
     logging.info("Reading sql databse started ")
     try:
         mydb = pymysql.connect(host=host,user=user,password=password,db=db)
-        logging.info(f"Connected to {mydb}")
+        logging.info(f"Connected to db")
         df = pd.read_sql_query("SELECT * from Students",mydb)
         # print(df.head())
         return df

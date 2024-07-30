@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/code/data%20Science/ml%20project/mlruns/0/62ab19b7dc1d4de882b84edc6247b43e/artifacts
+end_time: 1722339525399
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62ab19b7dc1d4de882b84edc6247b43e
+run_name: dapper-loon-874
+run_uuid: 62ab19b7dc1d4de882b84edc6247b43e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722339520161
+status: 3
+tags: []
+user_id: abhij

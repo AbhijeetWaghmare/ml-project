@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/code/data%20Science/ml%20project/mlruns/0/ada74f91d59747baa61a4819f1239372/artifacts
+end_time: 1722338526648
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ada74f91d59747baa61a4819f1239372
+run_name: bedecked-mole-113
+run_uuid: ada74f91d59747baa61a4819f1239372
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722338521644
+status: 3
+tags: []
+user_id: abhij

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/code/data%20Science/ml%20project/mlruns/0/1b252b9bce4d4accaaf296089ce8e501/artifacts
+end_time: 1722339838911
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b252b9bce4d4accaaf296089ce8e501
+run_name: sneaky-finch-538
+run_uuid: 1b252b9bce4d4accaaf296089ce8e501
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722339838854
+status: 4
+tags: []
+user_id: abhij

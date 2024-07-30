@@ -8,4 +8,6 @@ seaborn
 matplotlib
 catboost
 xgboost
+mlflow
+dagshub
 #-e .

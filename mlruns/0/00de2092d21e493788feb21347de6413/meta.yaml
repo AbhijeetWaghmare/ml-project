@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/code/data%20Science/ml%20project/mlruns/0/00de2092d21e493788feb21347de6413/artifacts
+end_time: 1722341377067
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00de2092d21e493788feb21347de6413
+run_name: magnificent-shark-36
+run_uuid: 00de2092d21e493788feb21347de6413
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722341372090
+status: 3
+tags: []
+user_id: abhij
