@@ -29,3 +29,5 @@
 # DVC (Data version control)
 - dvc init
 - git add commit
+
+special sytnax to exclude file in git "git add -- . :!artifacts/test.csv :!artifacts/train.csv"
